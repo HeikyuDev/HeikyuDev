@@ -1,7 +1,7 @@
-# 👋 Hola, soy Nahuel Theisen (HeikyuDev)
+# 👋 Hola, soy  Theisen Nahuel 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+Developer;Analista+de+Sistemas;Spring+Boot+%7C+JavaFX+%7C+PostgreSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Developer;Analista+de+Sistemas;" />
 </p>
 
 ### Backend Developer | Java Developer | Analista de Sistemas
@@ -14,8 +14,8 @@ Mi enfoque principal está en la construcción de aplicaciones empresariales uti
 
 ## 🎓 Formación Académica
 
-* Licenciatura en Sistemas de Información (Avanzado)
-* Analista en Sistemas de Computación (Avanzado)
+* Estudiante avanzado de Licenciatura en Sistemas de Información
+* Estudiante avanzado de Analista en Sistemas de Computación
 
 ---
 
@@ -46,7 +46,7 @@ Mi enfoque principal está en la construcción de aplicaciones empresariales uti
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### Otros Lenguajes
+### Lenguajes Adicionales
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
@@ -65,13 +65,13 @@ Mi enfoque principal está en la construcción de aplicaciones empresariales uti
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
+
 ---
 
-## 📊 Estadísticas de GitHub
+## 📈 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeikyuDev&show_icons=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeikyuDev&layout=compact" height="180px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeikyuDev&theme=github-dark" />
 </p>
 
 ---
